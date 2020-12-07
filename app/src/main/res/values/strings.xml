@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MOVID</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="now_playing_desc">Easier to show the movie\nthat is currently showing</string>
+    <string name="pre_sale">Pre Sale</string>
+    <string name="pre_sale_desc">Don\'t worry about missing\nthe latest movie updates</string>
+    <string name="cashless">Cashless</string>
+    <string name="cashless_desc">Use an e-wallet for\nyour movie ticket transactions</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email Address</string>
+    <string name="upload_later">Upload Later</string>
+    <string name="photo">Photo</string>
+    <string name="welcome">Welcome,\nRafli Syahdan</string>
+    <string name="save_and_next">Save and Next</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="choose_seat">Choose Seat</string>
+    <string name="buy_ticket">Buy Ticket</string>
+    <string name="checkout">Checkout</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="cancel">Cancel</string>
+    <string name="when">When</string>
+    <string name="datetime">Date And Time</string>
+    <string name="cinema">Cinema</string>
+    <string name="items">Items</string>
+    <string name="seat" />
+    <string name="total_payment">Total Payment</string>
+    <string name="ewallet">E-Wallet</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="save_data">Save New Update</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="my_history">My History</string>
+    <string name="happy_watching">Happy Watching!</string>
+    <string name="happy_wathing_desc">Payment is successful\nand enjoy the movie</string>
+    <string name="home">Home</string>
+    <string name="see_payment">See Payment</string>
+    <string name="login_account">LOGIN ACCOUNT</string>
+    <string name="create_new_account">CREATE NEW ACCOUNT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

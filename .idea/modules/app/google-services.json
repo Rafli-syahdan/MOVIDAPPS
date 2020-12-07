@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058026097961",
+    "firebase_url": "https://movidproject-d9931.firebaseio.com",
+    "project_id": "movidproject-d9931",
+    "storage_bucket": "movidproject-d9931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058026097961:android:a476bffd46c8cc093d7b38",
+        "android_client_info": {
+          "package_name": "com.prjctbyrafli.movid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058026097961-c8a26jj9n6aqkej0e3ie15mbrptdvtpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prjctbyrafli.movid",
+            "certificate_hash": "759b6890f1247b1c6ab156485a2b74a4cbcbce7b"
+          }
+        },
+        {
+          "client_id": "1058026097961-8f7k45a0q8rfgpjin0c4t6bfepfnpk6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxyXngu1CQiBzRdjCOT2CO5a6uchzue1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058026097961-8f7k45a0q8rfgpjin0c4t6bfepfnpk6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
